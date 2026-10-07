@@ -19,7 +19,7 @@ Preprocessing → EDA → Feature Engineering → Scaling → Clustering → Seg
 Customer Segments · Cluster Profiles · Purchasing Behavior · Customer Engagement
 
 📁 Files
+-"smartcart.ipynb" — ML notebook
+-"smartcart_customers.csv" — Dataset
 
-"smartcart.ipynb" — ML notebook
-"smartcart_customers.csv" — Dataset
 Author: Akanksha Verma
