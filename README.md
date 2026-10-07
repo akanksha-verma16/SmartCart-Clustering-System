@@ -1,30 +1,25 @@
-# SmartCart-Clustering-System
-# SmartCart
+🛒 SmartCart Clustering System
 
-SmartCart is a minor project developed as a smart shopping/cart management application.
+ML-powered customer segmentation system that groups e-commerce customers based on purchasing behavior, engagement, and loyalty using unsupervised learning.
 
-## Project Overview
+🛠️ Tech Stack
 
-SmartCart is designed to provide a simple and user-friendly shopping experience. It helps users manage products and their shopping cart efficiently.
+"Python" · "Pandas" · "NumPy" · "Scikit-learn" · "Seaborn" · "Matplotlib"
 
-## Features
+🤖 Model
 
-- Product management
-- Add products to cart
-- Remove products from cart
-- View cart items
-- Simple and user-friendly interface
+K-Means Clustering
 
-## Technologies Used
+🔄 Workflow
 
-- Python
-- Jupyter Notebook
-- Machine Learning / Data Analysis (if applicable)
+Preprocessing → EDA → Feature Engineering → Scaling → Clustering → Segmentation
 
-## Project File
+📊 Analysis
 
-- `smartcart.ipynb` – Main project Jupyter Notebook
+Customer Segments · Cluster Profiles · Purchasing Behavior · Customer Engagement
 
-## Author
+📁 Files
 
-Akanksha Verma
+"smartcart.ipynb" — ML notebook
+"smartcart_customers.csv" — Dataset
+Author: Akanksha Verma
